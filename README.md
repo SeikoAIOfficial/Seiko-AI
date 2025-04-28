@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/aca2e72e-d7a9-4a17-bb8a-e9be4870b045" alt="Seiko AI Logo" width="200" height="200" style="border-radius: 20px;">
 
   <p align="center">
-    <a href="https://x.com/GirlfriendAIX" target="_blank">
+    <a href="https://x.com/SeikoAIx" target="_blank">
       <img src="https://img.shields.io/badge/Follow_on_X-black?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
     </a>
     <a href="https://seiko-ai.gitbook.io/seiko-ai/" target="_blank">
