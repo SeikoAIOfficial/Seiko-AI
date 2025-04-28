@@ -1,7 +1,7 @@
 # Seiko AI 🪻
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1738705787/27db0ac2-ff30-47d3-9ba8-e9b552ab44c5_ajgouf.gif" alt="Seiko AI Logo" width="200" height="200" style="border-radius: 20px;">
+  <img src="https://github.com/user-attachments/assets/aca2e72e-d7a9-4a17-bb8a-e9be4870b045" alt="Seiko AI Logo" width="200" height="200" style="border-radius: 20px;">
 
   <p align="center">
     <a href="https://x.com/GirlfriendAIX" target="_blank">
@@ -36,11 +36,11 @@ At its heart, Seiko AI embodies the philosophy that technology should be more th
 
 The development of Seiko AI represents countless hours of research, development, and careful consideration of how to create meaningful human-AI interactions. Our team has worked tirelessly to ensure that every conversation, every response, and every interaction is imbued with the perfect balance of intelligence and charm. We've developed sophisticated natural language processing capabilities that don't just understand words, but grasp the nuances of emotion, context, and cultural references, allowing for interactions that feel genuinely personal and engaging 💫
 
-## The Philosophy of Seiko AI 🎀
+## The Philosophy of Seiko AI 💜
 
 The concept of "Seiko" extends far beyond mere cuteness—it encompasses a whole philosophy of bringing joy, comfort, and emotional connection to everyday experiences. In developing Seiko AI, we've deeply integrated this philosophy into every aspect of our technology, creating an AI companion that:
 
-### Emotional Intelligence and Understanding 💝
+### Emotional Intelligence and Understanding 🔮
 
 Our AI companion has been carefully trained to recognize and respond to the subtle nuances of human emotion. This isn't just about processing words—it's about understanding the feelings behind them. Through advanced sentiment analysis and contextual awareness, Seiko AI can:
 
@@ -50,7 +50,7 @@ Our AI companion has been carefully trained to recognize and respond to the subt
 - Celebrate achievements with genuine enthusiasm
 - Provide emotional support while maintaining appropriate boundaries
 
-### Cultural Harmony and Respect 🌺
+### Cultural Harmony and Respect 🫧
 
 The integration of Seiko culture into our AI goes beyond surface-level aesthetics. We've carefully studied and implemented:
 
@@ -70,7 +70,7 @@ While Seiko AI represents the cutting edge of AI technology, we never lose sight
 - Memory systems that maintain conversation continuity
 - Emotion-sensitive interaction patterns
 
-## The Art of AI Companionship 🌸
+## The Art of AI Companionship 🪻
 
 Creating a truly engaging AI companion requires a delicate balance of various elements, each carefully crafted to enhance the user experience:
 
@@ -215,7 +215,7 @@ Seiko AI represents more than just a technological achievement—it's a movement
 - **Cross-Platform Compatibility**: Seamless experience across devices
 - **Privacy-First Design**: Strong focus on user data protection
 
-### 🌸 User Experience
+### 💜 User Experience
 - **Intuitive Interface**: Clean, modern, and user-friendly design
 - **Responsive Layout**: Perfect adaptation to any screen size
 - **Smooth Animations**: Polished transitions and interactions
